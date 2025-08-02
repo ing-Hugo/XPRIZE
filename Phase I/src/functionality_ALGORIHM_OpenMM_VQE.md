@@ -44,5 +44,4 @@
 - **Purpose**: Executes the complete simulation pipeline.
 - **Functionality**: Initializes logging, runs OpenMM folding, executes VQE folding, compares results, and handles exceptions with appropriate logging.
 
-## Last Updated
-11:21 PM -03, Friday, August 01, 2025
+

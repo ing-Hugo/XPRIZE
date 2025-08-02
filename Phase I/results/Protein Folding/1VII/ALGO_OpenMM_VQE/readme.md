@@ -41,10 +41,9 @@ The hybrid protein folding algorithm developed in this study integrates classica
 
 ## Result Synthesis
 - **Purpose**: Consolidates and compares energy results.
-![vmd_1VII_hibrid_vqe](https://github.com/user-attachments/assets/b95dd468-3de3-4024-81c0-2605114b250a)
-
-
-
-
 - **Functionality**: Combines VQE energy, OpenMM-validated VQE energy, and baseline MD energy for a comparative analysis to evaluate the hybrid approach’s efficacy in predicting protein folding.
 - **Note**: This hybrid framework demonstrated a VQE runtime of 98.24 seconds, with the VQE
+
+
+![vmd_1VII_hibrid_vqe](https://github.com/user-attachments/assets/b95dd468-3de3-4024-81c0-2605114b250a)
+

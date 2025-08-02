@@ -24,5 +24,4 @@
 - **Purpose**: Visualizes and reports VQE results.
 - **Functionality**: Plots energy convergence against iterations, adds the exact energy as a reference line, and displays the graph. Prints the final energy, error, and optimal parameters if successful.
 
-## Last Updated
-12:13 AM -03, Saturday, August 02, 2025
+
